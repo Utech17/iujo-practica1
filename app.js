@@ -12,6 +12,6 @@ const suma =(a,b) =>{
 
 
 console.log("Hola")
-console.log("Este console es para mostrar el uso del push")
+// console.log("Este console es para mostrar el uso del push")
 
 console.log(`La probabilidad calculada es: `+`${uniforme(3,6).prob}`.green)
